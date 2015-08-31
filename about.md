@@ -8,7 +8,7 @@ I am a senior computer science student at the University of Texas at Austin.
 
 ### More Information
 
-Please contanct me via email
+Please contact me via email
 
 ### Contact me
 
