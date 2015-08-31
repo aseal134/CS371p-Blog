@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I am a senior computer science student at the University of Texas at Austin.
+Some information about you!
 
 ### More Information
 
-Please contanct me via email
+A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[aseal.yousuf@utexas.edu](mailto:aseal.yousuf@utexas.edu)
+[email@domain.com](mailto:email@domain.com)
