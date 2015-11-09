@@ -11,5 +11,4 @@ This week was a really busy week for me as I had 3 projects due. It was difficul
  
 <h1>Tip of the week</h1>
 
-For one of my side projects I was trying find a good way store images to on a database. I found this awesome website called ‘cloudinary’ that allows you store images and it was just made for that.  
-Instructor blog. Integrating it with your project is pretty easy regardless of whether is on web or mobile. Here is the URL to the site http://cloudinary.com/
+For one of my side projects I was trying find a good way store images to on a database. I found this awesome website called ‘cloudinary’ that allows you store images and it was just made for that. Integrating it with your project is pretty easy regardless of whether is on web or mobile. Here is the URL to the site http://cloudinary.com/
